@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&display=swap');
+
+
+.fonte{
+    font-family: "Quicksand";
+}
+
+.bg-geral{
+    background-color: #F6E7CB;
+}
+
+.bg-navbar{
+    background-color: #A6C48A;
+    font-weight: 700;
+}
+
+.titulo{
+    color: #678D58;
+}
+
+.cardSobre{
+    padding: 20px;
+}
+.card1{
+    box-shadow: 0px 0px 5px 0px #DD9787;
+    box-sizing: border-box;
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+}
+
+.card-title{
+    color: #DD9787;
+}
+
+.card2{
+        box-shadow: 0px 0px 5px 0px #DD9787;
+        box-sizing: border-box;
+        background-color: white;
+        width: 400px;
+        height: 1200px;
+        padding: 20px;
+}
+
+#linha-horizontal {
+    width: 350px;
+    border: 1px solid #74D3AE;
+    margin-top: 15px;
+}
+
+#menu{
+    position: fixed;
+    background-color: #A6C48A
+}
